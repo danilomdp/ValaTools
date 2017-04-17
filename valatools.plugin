@@ -1,0 +1,10 @@
+[Plugin]
+Module=valatools
+Loader=C
+IAge=2
+Name=Vala Tools
+Description=Tools for Vala developers
+Icon=applications-development
+Authors=Danilo
+Copyright=Copyright © 2017 Danilo
+Website=http://github.com/danilomdp
